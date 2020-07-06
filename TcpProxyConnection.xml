@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassSettings inherits="ProxyConnection" typeInheritsInfomation="inherits_QObject" className="TcpProxyConnection" docDetail="" docName="" generatePreventReentrantCode="false" sortAllProperties="true" docBrief="">
+    <TypeOrder/>
+    <PropertiesGroup readFunctionIsInline="true" statementsAfterWriteProperty="" writeFunctionIsInline="false" statementsBeforeWriteProperty="" statementsMiddleWriteProperty="" statementsAfterResetProperty="" name="primary" statementsInReadProperty="" writeFunctionEmitSignal="true" statementsBeforeResetProperty="" resetFunctionIsInline="false" enabled="true"/>
+</ClassSettings>
